@@ -1,4 +1,4 @@
-# SAR-RSI-bot-scripts-deployment-and-telegram
+# SAR-RSI-bot-scripts-deployment--telegram
 
 Hi
 
