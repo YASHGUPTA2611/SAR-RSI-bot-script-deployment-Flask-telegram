@@ -1,2 +1,4 @@
-FTX_API_KEY = 'Zt9gYaPYWbOgC81Xodr2HdHqOd0EKjHoExpGXQ9K'
-FTX_SECRET_KEY = 'BSCLbseQvaAWTRULt1EjKwSWDoCQv8V2ao0IXbT8'
+FTX_API_KEY = ''
+FTX_SECRET_KEY = ''
+telegram_auth_token = ''
+telegram_group_id = ''
