@@ -12,6 +12,8 @@ The script that i have uploaded has achieved good accuracy and will perform in C
 
 - Also made a Telegram bot in sar-rsi.py which will send the order summary to the telegram group automatically. 
 
+- Before running the script take a look at it, if you want to change asset and amount of the orders.
+
 Below are the information regarding the indicators that i have used in this strategy :-
 
 SAR indicator - https://www.investopedia.com/trading/introduction-to-parabolic-sar/#:~:text=The%20parabolic%20SAR%20is%20a,relative%20strength%20index%20(RSI)
