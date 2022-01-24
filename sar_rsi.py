@@ -22,7 +22,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Welcome to Giant_Leap executing orders'
+    return 'Welcome to framework for executing orders'
 
 @app.route('/giving_orders')
 def giving_orders():
