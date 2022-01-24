@@ -16,7 +16,7 @@ The script that i have uploaded has achieved good accuracy and will perform in C
 
 Below are the information regarding the indicators that i have used in this strategy :-
 
-SAR indicator - https://www.investopedia.com/trading/introduction-to-parabolic-sar/#:~:text=The%20parabolic%20SAR%20is%20a,relative%20strength%20index%20(RSI)
+SAR indicator - https://www.investopedia.com/trading/introduction-to-parabolic-sar
 
 RSI indicator - https://www.investopedia.com/terms/r/rsi.asp
 
