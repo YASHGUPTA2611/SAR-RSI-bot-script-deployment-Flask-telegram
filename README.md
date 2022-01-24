@@ -12,7 +12,7 @@ The script that i have uploaded has achieved good accuracy and will perform in C
 
 - Also made a Telegram bot in sar-rsi.py which will send the order summary to the telegram group automatically. 
 
-- Before running the script take a look at it, if you want to change asset and amount of the orders.
+- Before running the script take a look at it, if you want to change asset and amount of the orders. Also initially I have set the initail position to False, so if you are already in position before just change the in position = True in config.py
 
 Below are the information regarding the indicators that i have used in this strategy :-
 
